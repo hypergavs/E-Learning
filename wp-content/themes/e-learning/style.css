@@ -1,0 +1,85 @@
+@charset "utf-8";
+/*
+Theme Name: E-Learning
+Author: GM
+Version: 1.0
+*/
+body{
+	background:#FFF;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#page{
+	padding:20px;	
+}
+
+.modal-body{
+	padding:20px !important;	
+}
+
+.Editor-container .btn{
+	padding:5px;
+	margin:2px 2px !important;
+}
+
+
+
+
+.notif{
+	display:none;
+	padding:20px;
+	font-size:14px;
+	border-radius:5px;
+	margin:0px auto;
+}
+.notif.error{
+	background:#FFD1D1;
+	border:thin solid #990000;
+}
+.notif.success{
+	background:#BDE5FF;
+	border:thin solid #0088E0;
+}
+.modal-body span{
+	text-align:justify !important;	
+}
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+@media (max-width: 768px) {
+	
+#search-bar-wrap{
+	height:180px;
+	padding:10px 0px 5px 0px;
+	
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

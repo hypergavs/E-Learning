@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.login-wrapper{
+	margin-bottom:20px;	
+}
+.modal-footer{
+	padding-bottom:0 !important;	
+}
+.modal-body{
+	padding:10px !important	
+}
+.md-form{
+	padding:0 !important;	
+}
+@media (max-width: 768px) {
+
+}

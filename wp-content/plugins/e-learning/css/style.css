@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+.form-group .row{
+	margin:10px 0px !important;	
+}
+.post_info{
+	
+}
+.post_info .posted_by_and_posted_to{
+	font-weight:bold;
+}
+.post_info .posted_by_and_posted_to a{
+	font-size:14px;
+	padding:5px;
+	color:#575757;
+}
+.post_info .posted_by_and_posted_to a:hover{
+	color:#255CA7;
+}
+.post_info .post_date_time{
+	font-size:10px;	
+}
+.post-content{
+	padding:20px 0px;	
+}
+.post-attachments span{
+	font-size:12px;
+	font-weight:bold;
+	display:block;
+}
+.post-attachments{
+	background:#B7D3FD;
+	padding:10px;
+	border-radius:5px;
+}
+.post-attachments a{
+	display:block;
+	font-weight:bold;
+	font-size:12px;
+	text-indent:20px;
+}
+.post-comments{
+	padding:5px !important;
+	background:#F4F4F4;
+	margin:2px;
+	border-radius:3px;
+}
+.post-comments .comment_by{
+	font-weight:bold;
+	display:inline;
+}
+.post-comments .the_comment{
+	display:inline;
+}
+.post-comments .the_comment .buttons{
+	display:inline !important;
+	font-weight:normal;
+	font-size:10px;
+	cursor:pointer;
+}
+.post-comments .comment_date_time{
+	display:block;
+	font-size:10px;
+}
+.comments{
+	font-size:14px;	
+}
